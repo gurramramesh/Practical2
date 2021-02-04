@@ -1,1 +1,2 @@
 This is the normal file
+This is master edit in master bracnh
